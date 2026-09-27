@@ -2,33 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "01:24:47 AM 28-09-2026",
-    "generated_at": "2026-09-27 20:05:09",
+    "source_last_updated": "04:16:16 AM 28-09-2026",
+    "generated_at": "2026-09-27 22:55:05",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 38,
+    "live_matches_count": 1,
+    "upcoming_matches_count": 39,
     "matches": [
-        {
-            "event_category": "Football",
-            "match_id": "4249271_ENG",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Real Oviedo vs Sporting de Gijón [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Sporting de Gijón",
-            "status": "LIVE",
-            "startTime": "12:30:00 AM 28-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249271_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Golf",
             "match_id": "4249107_ENG",
@@ -205,6 +186,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249529,
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248542,
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -232,15 +226,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249529,
-            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
-            "match_name": "Victoria Women vs South Australian Scorpions",
+            "match_id": 4249530,
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
             "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "South Australian Scorpions",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
             "status": "UPCOMING",
-            "startTime": "09:30:00 AM 29-09-2026",
+            "startTime": "11:30:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -254,19 +248,6 @@
             "team_2": "Saranda Worriers",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249530,
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -541,28 +522,22 @@
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 30-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250064,
+            "title": "Emirates Blues vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Fujairah",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 PM 30-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
-        {
-            "event_category": "Football",
-            "match_id": "4249271_ENG",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Real Oviedo vs Sporting de Gijón [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Sporting de Gijón",
-            "status": "LIVE",
-            "startTime": "12:30:00 AM 28-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249271_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Golf",
             "match_id": "4249107_ENG",
@@ -741,6 +716,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249529,
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248542,
             "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -768,15 +756,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249529,
-            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
-            "match_name": "Victoria Women vs South Australian Scorpions",
+            "match_id": 4249530,
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
             "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "South Australian Scorpions",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
             "status": "UPCOMING",
-            "startTime": "09:30:00 AM 29-09-2026",
+            "startTime": "11:30:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -790,19 +778,6 @@
             "team_2": "Saranda Worriers",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249530,
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -1076,6 +1051,19 @@
             "team_2": "East Bengal FC",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250064,
+            "title": "Emirates Blues vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Fujairah",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 PM 30-09-2026",
             "user-agent": null
         }
     ]
