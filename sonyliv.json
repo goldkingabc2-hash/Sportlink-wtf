@@ -1,124 +1,29 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:03:00 01-10-2026",
+    "last update time": "20:08:37 01-10-2026",
     "matches": [
         {
-            "event_category": "Hockey",
+            "event_category": "Golf",
             "isLive": true,
-            "contentId": "1090546010_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090545726_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561740000673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day1_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": true,
-            "contentId": "1090546010_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": true,
-            "contentId": "1090546010_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": true,
-            "contentId": "1090546010_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
+            "event_name": "DP World Tour",
+            "match_name": "Alfred Dunhill Links Championship - Day 1 - 1 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Golf_Alf0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790908717~acl=/*~id=63217928613518293099542013096831~hmac=40f3949bb7f941846daa02bbd20511986d4efcd7a74ceb7b2e96ea5215a8f0a1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Golf_Alf0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790908717~acl=/*~id=63217928613518293099542013096831~hmac=40f3949bb7f941846daa02bbd20511986d4efcd7a74ceb7b2e96ea5215a8f0a1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Golf_Alf0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790908717~acl=/*~id=63217928613518293099542013096831~hmac=40f3949bb7f941846daa02bbd20511986d4efcd7a74ceb7b2e96ea5215a8f0a1"
         },
         {
             "event_category": "Sports",
-            "isLive": true,
-            "contentId": "1090541378_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
+            "isLive": false,
+            "contentId": 1090546365,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025541/1790855279020823_ag_indvs_pak_promo_dated_landscape_Thum.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 13 - 1 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790883160~acl=/*~id=52787851847470874087335981693442~hmac=e8f70ef7a08d704b1ba066e6dda39e8cd20b2eceee4b73471b5394b6d8cf508a"
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
@@ -130,15 +35,6 @@
             "event_name": "Upcoming - Denmark vs Portugal - UEFA Nations League 2026-27"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090546015,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025457/1790808560713268_NZvsIND26_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090543727,
@@ -146,6 +42,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil - India's International Friendlies "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090546015,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025457/1790808560713268_NZvsIND26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
@@ -202,15 +107,6 @@
             "event_name": "Upcoming - India Tour of New Zealand 2026"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090539080,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090541320,
@@ -218,15 +114,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090541821,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023648/178884796612122_Asian_game_landscpae.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
