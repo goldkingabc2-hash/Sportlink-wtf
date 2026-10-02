@@ -1,22 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745313722683_UNL2627_France_vs_Italy_landscape_thumb.jpg" group-title="sonyliv-Football", France vs Italy - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791013577~acl=/*~id=87708961755835647494452016229034~hmac=ee59de0945ef8a11ae52600c4efc93006f4abf36cd68c96c03b531d06e1454b6
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="sonyliv-Archery", Men's & Women's Archery Finals - 3 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745452538683_UNL2627_Belgium_vs_Turkiye_landscape_thumb.jpg" group-title="sonyliv-Football", Belgium vs Türkiye - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791013577~acl=/*~id=87708961755835647494452016229034~hmac=ee59de0945ef8a11ae52600c4efc93006f4abf36cd68c96c03b531d06e1454b6
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790745920474668_UNL2627_Poland_vs_Romania_landscape_thumb.jpg" group-title="sonyliv-Football", Poland vs Romania - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791013577~acl=/*~id=87708961755835647494452016229034~hmac=ee59de0945ef8a11ae52600c4efc93006f4abf36cd68c96c03b531d06e1454b6
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745793215683_UNL2627_Hungary_vs_Georgia_landscape_thumb.jpg" group-title="sonyliv-Football", Hungary vs Georgia - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791013577~acl=/*~id=87708961755835647494452016229034~hmac=ee59de0945ef8a11ae52600c4efc93006f4abf36cd68c96c03b531d06e1454b6
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747163415683_UNL2627_Bosnia_vs_Sweden_landscape_thumb.jpg" group-title="sonyliv-Football", Bosnia & Herzegovina vs Sweden - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791013577~acl=/*~id=87708961755835647494452016229034~hmac=ee59de0945ef8a11ae52600c4efc93006f4abf36cd68c96c03b531d06e1454b6
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790745198261668_UNL2627_Ukraine_vs_Northern_Ireland_landscape_thumb.jpg" group-title="sonyliv-Football", Ukraine vs Northern Ireland - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791013577~acl=/*~id=87708961755835647494452016229034~hmac=ee59de0945ef8a11ae52600c4efc93006f4abf36cd68c96c03b531d06e1454b6
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747295212683_UNL2627_Faroe_Islands_vs_Slovakia_landscape_thumb.jpg" group-title="sonyliv-Football", Faroe Islands vs Slovakia - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791013577~acl=/*~id=87708961755835647494452016229034~hmac=ee59de0945ef8a11ae52600c4efc93006f4abf36cd68c96c03b531d06e1454b6
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4
 
