@@ -1,20 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:55:20 02-10-2026",
+    "last update time": "14:18:47 02-10-2026",
     "matches": [
         {
-            "event_category": "Sports",
+            "event_category": "Boxing",
             "isLive": true,
-            "contentId": "1090543297_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "contentId": "1090546465_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790904576362936_AG26_Boxing_Womens65kg_GoldMatch_Chen_Nien_Chin_vs_Parveen_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 14 - 2 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790951120~acl=/*~id=40717329461214822840662175812927~hmac=07a044d398278f9f01a7b9fbbb454635f26fb2f4c433a016c4a907cb79a12d44",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790951120~acl=/*~id=40717329461214822840662175812927~hmac=07a044d398278f9f01a7b9fbbb454635f26fb2f4c433a016c4a907cb79a12d44",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790951120~acl=/*~id=40717329461214822840662175812927~hmac=07a044d398278f9f01a7b9fbbb454635f26fb2f4c433a016c4a907cb79a12d44"
+            "match_name": "India In Action - Boxing - 2 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59"
+        },
+        {
+            "event_category": "Boxing",
+            "isLive": true,
+            "contentId": "1090546465_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790904576362936_AG26_Boxing_Womens65kg_GoldMatch_Chen_Nien_Chin_vs_Parveen_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Boxing - 2 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59"
+        },
+        {
+            "event_category": "Boxing",
+            "isLive": true,
+            "contentId": "1090546465_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790904576362936_AG26_Boxing_Womens65kg_GoldMatch_Chen_Nien_Chin_vs_Parveen_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Boxing - 2 Oct 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59"
+        },
+        {
+            "event_category": "Boxing",
+            "isLive": true,
+            "contentId": "1090546465_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790904576362936_AG26_Boxing_Womens65kg_GoldMatch_Chen_Nien_Chin_vs_Parveen_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Boxing - 2 Oct 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59"
+        },
+        {
+            "event_category": "Boxing",
+            "isLive": true,
+            "contentId": "1090546465_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790904576362936_AG26_Boxing_Womens65kg_GoldMatch_Chen_Nien_Chin_vs_Parveen_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Boxing - 2 Oct 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790974125~acl=/*~id=73486936800981305675144052555774~hmac=8f07a1896d8875f17ba833e1033398faa360e0eca846adf6a496a9228b525a59"
         },
         {
             "event_category": "Sports",
@@ -24,15 +76,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
@@ -47,7 +90,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090546015,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025457/1790808560713268_NZvsIND26_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
@@ -62,13 +105,22 @@
             "event_name": "Upcoming - Matchday 3 - UEFA Nations League 2026-27"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Fight Sports",
             "isLive": false,
-            "contentId": 1090538916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "contentId": 1090546523,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025590/1790896651295885_UFC332_SILVA_vs_WANG_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 332 - Silva vs Wang"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090546568,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025607/1790914308183161_INDvsPAK_2oct_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
+            "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Sports",
@@ -87,6 +139,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
@@ -141,6 +202,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India's International Friendlies "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
         }
     ]
 }
