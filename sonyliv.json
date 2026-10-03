@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:58:20 03-10-2026",
+    "last update time": "07:39:56 03-10-2026",
     "matches": [
         {
             "event_category": "Archery",
             "isLive": true,
             "contentId": "1090543297_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025681/1790969799528794_AG26_3rd_Oct_Archery_Kumkum_Mohod_Gold_Match_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's & Women's Archery Finals - 3 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4"
+            "match_name": "India In Action - Archery - 3 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188"
         },
         {
             "event_category": "Sports",
