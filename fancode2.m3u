@@ -1,39 +1,18 @@
 #EXTM3U
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 9 October 2026 at 2:07:14 pm
-#EXTINF:-1 tvg-id="4249664" tvg-name="Queensland Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg" tvg-language="English" group-title="Cricket",ENG | Queensland Vs Western Australia
-https://dai-fancode.pages.dev/mumbai/4249664_english_hls_0bb18b2c5914804_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250149" tvg-name="Bangladesh Women Vs Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Bangladesh Women Vs Australia Women
-https://dai-fancode.pages.dev/mumbai/4250149_english_hls_b5a49a2a0a53830_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" tvg-language="English" group-title="Cricket",ENG | Bangladesh Vs Afghanistan
-https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b68270_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250113" tvg-name="Oman Vs Canada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-App.png" tvg-language="English" group-title="Cricket",ENG | Oman Vs Canada
-https://dai-fancode.pages.dev/mumbai/4250113_english_hls_538b42734e28475_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249781" tvg-name="Australia Vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Cricket",ENG | Australia Vs South Africa
-https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b112044_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249742" tvg-name="Malaysia Vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249742_53092_MAS_SDA_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Malaysia Vs Saudi Arabia
-https://dai-fancode.pages.dev/mumbai/4249742_english_hls_4cd4faa9a450132_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249744" tvg-name="Singapore Vs Maldives" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249744_53092_MDV_SIN_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Singapore Vs Maldives
-https://dai-fancode.pages.dev/mumbai/4249744_english_hls_be066f605a86904_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139975" tvg-name="Indonesia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png" tvg-language="English" group-title="MotoGP",ENG | Indonesia Gp
-https://dai-fancode.pages.dev/mumbai/139975_english_hls_b9ad0189e652810_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248817" tvg-name="Show Court 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Tennis",ENG | Show Court 3
-https://dai-fancode.pages.dev/mumbai/4248817_english_hls_85ff5ff60a79750_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248819" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Tennis",ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4248819_english_hls_dcca840f9199331_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248820" tvg-name="Grandstand 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Tennis",ENG | Grandstand 2
-https://dai-fancode.pages.dev/mumbai/4248820_english_hls_5f6323f2e670008_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250187" tvg-name="Court 7" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Tennis",ENG | Court 7
-https://dai-fancode.pages.dev/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250188" tvg-name="Court 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Tennis",ENG | Court 4
-https://dai-fancode.pages.dev/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139497" tvg-name="Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg" group-title="Formula 1",[DRM] ENG | Practice 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"wk__rLHkrdPkYa_wzbkugA","kid":"jCH7sAx1QZuo-Wb0sG12Bw","kty":"oct"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/139497_english_dash_26313_1drmta-di_h264/index.mpd
+#DATE:- Friday, 9 October 2026 at 8:56:23 pm
+#EXTINF:-1 tvg-id="4249659" tvg-name="United Arab Emirates Vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-App.png" tvg-language="English" group-title="Cricket",ENG | United Arab Emirates Vs Namibia
+https://dai-fancode.pages.dev/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249227" tvg-name="Bangladesh Champions Vs West Indies Champions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" tvg-language="English" group-title="Cricket",ENG | Bangladesh Champions Vs West Indies Champions
+https://dai-fancode.pages.dev/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249227" tvg-name="Bangladesh Champions Vs West Indies Champions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" tvg-language="Hindi" group-title="Cricket",HIN | Bangladesh Champions Vs West Indies Champions
+https://dai-fancode.pages.dev/mumbai/4249227_hindi_hls_6f1246eee534646_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250096" tvg-name="Sharjah Vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250096_53103_SHA_AJM_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | Sharjah Vs Ajman
+https://dai-fancode.pages.dev/mumbai/4250096_english_hls_958bd717d928717_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249136" tvg-name="Al Kholood Club Vs Al Qadsiah Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249136_53025_ALK_ALQ_FC-Web.png" tvg-language="English" group-title="Football",ENG | Al Kholood Club Vs Al Qadsiah Fc
+https://dai-fancode.pages.dev/mumbai/4249136_english_hls_26d7dbdd0213699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249137" tvg-name="Al Fateh Sc Vs Al Ahli Saudi Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png" tvg-language="English" group-title="Football",ENG | Al Fateh Sc Vs Al Ahli Saudi Fc
+https://dai-fancode.pages.dev/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250125" tvg-name="R Intanon Vs Pv Sindhu" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PVSindhu_WEB.png" tvg-language="English" group-title="Badminton",ENG | R Intanon Vs Pv Sindhu
+https://dai-fancode.pages.dev/mumbai/4250125_english_hls_dbecee0b3f59457_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
