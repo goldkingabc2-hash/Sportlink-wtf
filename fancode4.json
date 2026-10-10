@@ -2,45 +2,32 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "01:22:16 AM 11-10-2026",
-    "generated_at": "2026-10-10 20:05:04",
+    "source_last_updated": "04:55:18 AM 11-10-2026",
+    "generated_at": "2026-10-10 23:30:42",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 39,
+    "total_matches": 40,
     "live_matches_count": 1,
-    "upcoming_matches_count": 38,
+    "upcoming_matches_count": 39,
     "matches": [
         {
-            "event_category": "Football",
-            "match_id": "4249139_ENG",
-            "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Al Hilal SFC vs Al-Ittihad [English]",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Ittihad",
-            "status": "LIVE",
-            "startTime": "11:30:00 PM 10-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249139_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
             "event_category": "Cricket",
-            "match_id": 4249663,
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs New South Wales",
+            "match_id": "4249663_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
             "event_name": "Sheffield Shield, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
             "team_1": "Tasmania",
             "team_2": "New South Wales",
-            "status": "PAUSED",
+            "status": "LIVE",
             "startTime": "05:00:00 AM 09-10-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249663_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -291,19 +278,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249265,
-            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Almería vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "Leganes",
-            "status": "UPCOMING",
-            "startTime": "07:45:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247640,
             "title": "Racing Club de Santander vs Valencia CF (LALIGA 2026-27)",
             "match_name": "Racing Club de Santander vs Valencia CF",
@@ -313,6 +287,19 @@
             "team_2": "Valencia CF",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249265,
+            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Almería vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
+            "team_1": "Almería",
+            "team_2": "Leganes",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 11-10-2026",
             "user-agent": null
         },
         {
@@ -339,6 +326,84 @@
             "team_2": "Sporting de Gijón",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249280,
+            "title": "Victoria vs South Australia (One Day Cup, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249748,
+            "title": "Malaysia vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Malaysia vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249748_53092_MAS_SIN_fc-web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249749,
+            "title": "Hong Kong, China vs Maldives (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Hong Kong, China vs Maldives",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249749_53092_HK_MDV_fc-web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Maldives",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249750,
+            "title": "China vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Saudi Arabia",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249750_53092_CHN_SDA_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249784,
+            "title": "Hobart Hurricanes Women vs ACT Meteors (T20 Spring Challenge, 2026)",
+            "match_name": "Hobart Hurricanes Women vs ACT Meteors",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249784_53097_HB-W_AM-W_FC-Web.png",
+            "team_1": "Hobart Hurricanes Women",
+            "team_2": "ACT Meteors",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249785,
+            "title": "Sydney Sixers Women vs Brisbane Heat Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Sixers Women vs Brisbane Heat Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249785_53097_SS-W_BH-W_FC-Web.png",
+            "team_1": "Sydney Sixers Women",
+            "team_2": "Brisbane Heat Women",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 12-10-2026",
             "user-agent": null
         },
         {
@@ -470,77 +535,25 @@
             "status": "UPCOMING",
             "startTime": "02:20:00 PM 11-10-2026",
             "user-agent": null
-        },
-        {
-            "event_category": "Formula 1",
-            "match_id": 139501,
-            "title": "Race vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
-            "match_name": "Race",
-            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-            "team_1": "Race",
-            "team_2": "Marina Bay Street Circuit",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Motorsports",
-            "match_id": 4250200,
-            "title": "F1 Kids 2026 vs Singapore (F1 Kids 2026)",
-            "match_name": "F1 Kids 2026",
-            "event_name": "F1 Kids 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
-            "team_1": "F1 Kids 2026",
-            "team_2": "Singapore",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Motorsports",
-            "match_id": 4250138,
-            "title": "ADAC GT Masters - Race 2 vs Hockenheimring (DTM 2026)",
-            "match_name": "ADAC GT Masters - Race 2",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "ADAC GT Masters - Race 2",
-            "team_2": "Hockenheimring",
-            "status": "UPCOMING",
-            "startTime": "05:55:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Motorsports",
-            "match_id": 4250141,
-            "title": "Race 2 vs Hockenheimring (DTM 2026)",
-            "match_name": "Race 2",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "Race 2",
-            "team_2": "Hockenheimring",
-            "status": "UPCOMING",
-            "startTime": "07:25:00 PM 11-10-2026",
-            "user-agent": null
         }
     ],
     "live_matches": [
         {
-            "event_category": "Football",
-            "match_id": "4249139_ENG",
-            "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Al Hilal SFC vs Al-Ittihad [English]",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Ittihad",
+            "event_category": "Cricket",
+            "match_id": "4249663_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
             "status": "LIVE",
-            "startTime": "11:30:00 PM 10-10-2026",
+            "startTime": "05:00:00 AM 09-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249139_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249663_ENG/english.m3u8"
                 }
             ]
         }
@@ -548,19 +561,6 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249663,
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs New South Wales",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "PAUSED",
-            "startTime": "05:00:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249664,
             "title": "Queensland vs Western Australia (Sheffield Shield, 2026/27)",
             "match_name": "Queensland vs Western Australia",
@@ -808,19 +808,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249265,
-            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Almería vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "Leganes",
-            "status": "UPCOMING",
-            "startTime": "07:45:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247640,
             "title": "Racing Club de Santander vs Valencia CF (LALIGA 2026-27)",
             "match_name": "Racing Club de Santander vs Valencia CF",
@@ -830,6 +817,19 @@
             "team_2": "Valencia CF",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249265,
+            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Almería vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
+            "team_1": "Almería",
+            "team_2": "Leganes",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 11-10-2026",
             "user-agent": null
         },
         {
@@ -856,6 +856,84 @@
             "team_2": "Sporting de Gijón",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249280,
+            "title": "Victoria vs South Australia (One Day Cup, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "One Day Cup, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249748,
+            "title": "Malaysia vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Malaysia vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249748_53092_MAS_SIN_fc-web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249749,
+            "title": "Hong Kong, China vs Maldives (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Hong Kong, China vs Maldives",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249749_53092_HK_MDV_fc-web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Maldives",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249750,
+            "title": "China vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Saudi Arabia",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249750_53092_CHN_SDA_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249784,
+            "title": "Hobart Hurricanes Women vs ACT Meteors (T20 Spring Challenge, 2026)",
+            "match_name": "Hobart Hurricanes Women vs ACT Meteors",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249784_53097_HB-W_AM-W_FC-Web.png",
+            "team_1": "Hobart Hurricanes Women",
+            "team_2": "ACT Meteors",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249785,
+            "title": "Sydney Sixers Women vs Brisbane Heat Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Sixers Women vs Brisbane Heat Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249785_53097_SS-W_BH-W_FC-Web.png",
+            "team_1": "Sydney Sixers Women",
+            "team_2": "Brisbane Heat Women",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 12-10-2026",
             "user-agent": null
         },
         {
@@ -986,58 +1064,6 @@
             "team_2": "Hockenheimring",
             "status": "UPCOMING",
             "startTime": "02:20:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Formula 1",
-            "match_id": 139501,
-            "title": "Race vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
-            "match_name": "Race",
-            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-            "team_1": "Race",
-            "team_2": "Marina Bay Street Circuit",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Motorsports",
-            "match_id": 4250200,
-            "title": "F1 Kids 2026 vs Singapore (F1 Kids 2026)",
-            "match_name": "F1 Kids 2026",
-            "event_name": "F1 Kids 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
-            "team_1": "F1 Kids 2026",
-            "team_2": "Singapore",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Motorsports",
-            "match_id": 4250138,
-            "title": "ADAC GT Masters - Race 2 vs Hockenheimring (DTM 2026)",
-            "match_name": "ADAC GT Masters - Race 2",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "ADAC GT Masters - Race 2",
-            "team_2": "Hockenheimring",
-            "status": "UPCOMING",
-            "startTime": "05:55:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Motorsports",
-            "match_id": 4250141,
-            "title": "Race 2 vs Hockenheimring (DTM 2026)",
-            "match_name": "Race 2",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "Race 2",
-            "team_2": "Hockenheimring",
-            "status": "UPCOMING",
-            "startTime": "07:25:00 PM 11-10-2026",
             "user-agent": null
         }
     ]
